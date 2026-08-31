@@ -13,9 +13,9 @@ Most solutions are written in **C++**, **Python** and are added as I complete ne
 ## Language
 
 - C++
+- Python
 
-## About
 
-This repository is mainly for practicing problem solving, mathematics, algorithms, and competitive programming concepts through Project Euler.
+Solutions are intended for learning and practice.
 
 Project Euler: https://projecteuler.net/
